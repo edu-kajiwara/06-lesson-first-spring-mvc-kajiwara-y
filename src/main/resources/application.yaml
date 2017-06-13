@@ -4,3 +4,6 @@ spring:
     username: userfoo
     password: secret
     driver-class-name: com.mysql.jdbc.Driver
+
+client:
+  url: http://localhost:63342
